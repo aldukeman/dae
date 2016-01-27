@@ -1,0 +1,1 @@
+/usr/bin/c++     -fPIC CMakeFiles/gprop.dir/gprop.cpp.o  -o gprop-1.1.1-edge -rdynamic -L/tools/eo/eo/build/lib ../../lib/libeo.a ../../lib/libeoutils.a -Wl,-rpath,/tools/eo/eo/build/lib 

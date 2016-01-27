@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libcma.a  CMakeFiles/cma.dir/eig.cpp.o CMakeFiles/cma.dir/CMAState.cpp.o CMakeFiles/cma.dir/CMAParams.cpp.o
+/usr/bin/ranlib ../../lib/libcma.a
